@@ -1,2 +1,60 @@
-# portfolio-website-hosted-on-aws
-Built and deployed a static portfolio website on AWS using Amazon EC2, Ubuntu, Nginx, Namecheap DNS, Let's Encrypt SSL, and Formspree. Demonstrates cloud deployment, Linux server administration, domain configuration, and HTTPS implementation.
+# Portfolio Website Hosted on AWS
+
+## Project Overview
+
+This project demonstrates how I built, deployed, and secured a static portfolio website using Amazon Web Services (AWS). The website was customized using HTML, CSS, and Bootstrap before being deployed to an Amazon EC2 instance running Ubuntu and Nginx. A custom domain registered with Namecheap was connected to the server using DNS, while HTTPS was enabled using Let's Encrypt and Certbot. To make the contact page functional without building a backend, Formspree was integrated to receive messages directly through email.
+
+This project showcases practical experience in cloud infrastructure, Linux server administration, web server configuration, domain management, DNS configuration, SSL/TLS implementation, and static website deployment.
+
+## Live Demo
+
+🌐 **Website:** https://ayoagboola.online
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap
+- Visual Studio Code
+- Amazon Web Services (AWS)
+- Amazon EC2
+- Ubuntu Server
+- Nginx
+- Namecheap
+- DNS
+- Let's Encrypt
+- Certbot
+- Formspree
+- MobaXterm
+
+## Project Workflow
+
+1. Created an AWS account and accessed the AWS Management Console.
+2. Configured the networking environment by creating a VPC, subnet, Internet Gateway, and Route Table.
+3. Created and configured an Amazon EC2 instance running Ubuntu.
+4. Configured the Security Group to allow SSH, HTTP, and HTTPS traffic.
+5. Registered a custom domain with Namecheap.
+6. Customized a portfolio website template using HTML, CSS, and Bootstrap in Visual Studio Code.
+7. Connected to the EC2 instance using MobaXterm over SSH.
+8. Uploaded the website files to the EC2 instance.
+9. Installed and configured Nginx as the web server.
+10. Deployed the website by copying the project files to the Nginx web root directory.
+11. Connected the custom domain to the EC2 public IP address using DNS A records.
+12. Verified DNS propagation using DNS Checker.
+13. Installed Certbot and generated an SSL/TLS certificate from Let's Encrypt.
+14. Configured HTTPS to secure the website.
+15. Integrated Formspree to enable the contact form without building a backend.
+16. Tested the website to ensure it was publicly accessible and functioning correctly over HTTPS.
+
+## Key Features
+
+- Custom portfolio website hosted on AWS.
+- Accessible through a custom domain.
+- Secure HTTPS connection using Let's Encrypt SSL/TLS.
+- Responsive design for desktop and mobile devices.
+- Contact form integrated with Formspree.
+- Hosted on an Ubuntu EC2 instance using Nginx.
+- Publicly accessible over the internet.
+- Easy deployment and update process.
+
+  
