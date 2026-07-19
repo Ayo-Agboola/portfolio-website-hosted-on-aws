@@ -167,3 +167,14 @@ This project provided practical experience beyond building a static website. It 
 - Remote server management using SSH through MobaXterm.
 - Integrating third-party services such as Formspree.
 - Troubleshooting real deployment issues in a cloud environment.
+
+## Future Improvements
+
+Some enhancements I plan to implement in future versions of this project include:
+
+- Developing a custom backend for the contact form instead of relying on Formspree.
+- Containerizing the application using Docker.
+- Automating deployment with GitHub Actions.
+- Hosting static assets using Amazon S3 and CloudFront.
+- Improving website performance and accessibility.
+- Expanding the portfolio with additional projects and blog content.
