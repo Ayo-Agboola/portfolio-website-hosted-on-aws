@@ -122,3 +122,18 @@ flowchart LR
     E --> F[Portfolio Website]
     F --> G[Formspree Contact Form]
 ```
+
+## Deployment Guide
+
+To deploy this project, follow these steps:
+
+1. Launch an Ubuntu EC2 instance on AWS.
+2. Configure the Security Group to allow SSH (22), HTTP (80), and HTTPS (443).
+3. Connect to the EC2 instance using SSH through MobaXterm.
+4. Install and configure Nginx as the web server.
+5. Upload the website files to the Nginx web root directory.
+6. Register a custom domain with Namecheap and configure the DNS A record to point to the EC2 public IP address.
+7. Install Certbot and generate an SSL/TLS certificate from Let's Encrypt.
+8. Configure HTTPS for secure communication.
+9. Integrate Formspree to enable the contact form.
+10. Verify that the website is publicly accessible over HTTPS.
