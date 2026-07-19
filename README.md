@@ -58,3 +58,17 @@ This project showcases practical experience in cloud infrastructure, Linux serve
 - Easy deployment and update process.
 
   
+## Project Structure
+
+```
+portfolio-website-hosted-on-aws/
+├── assets/
+├── forms/
+├── about.html
+├── contact.html
+├── index.html
+├── resume.html
+├── README.md
+├── LICENSE
+└── .gitignore
+```
