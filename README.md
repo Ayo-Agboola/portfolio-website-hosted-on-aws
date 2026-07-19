@@ -142,3 +142,15 @@ To deploy this project, follow these steps:
 8. Configure HTTPS for secure communication.
 9. Integrate Formspree to enable the contact form.
 10. Verify that the website is publicly accessible over HTTPS.
+
+## Challenges Encountered
+
+During this project, I encountered several challenges that strengthened my understanding of AWS and website deployment:
+
+- Understanding how AWS networking components such as VPCs, subnets, Internet Gateways, and Route Tables work together.
+- Configuring Security Group inbound rules correctly to allow SSH, HTTP, and HTTPS traffic.
+- Connecting a custom Namecheap domain to the EC2 instance through DNS records and waiting for DNS propagation.
+- Configuring Nginx to correctly serve the website files.
+- Installing and configuring Let's Encrypt SSL/TLS certificates using Certbot.
+- Integrating Formspree to make the contact form functional without developing a backend.
+- Troubleshooting file locations, permissions, and deployment issues while updating the website.
