@@ -178,3 +178,13 @@ Some enhancements I plan to implement in future versions of this project include
 - Hosting static assets using Amazon S3 and CloudFront.
 - Improving website performance and accessibility.
 - Expanding the portfolio with additional projects and blog content.
+
+## Author
+
+**Ayomide Emmanuel Agboola**
+
+Operations Analyst | Data Analyst | Cloud Computing Practitioner
+
+- 🌐 Website: https://ayoagboola.online
+- 💼 LinkedIn: https://www.linkedin.com/in/ayomide-e-agboola
+- 📧 Email: oluwafunbiayomide@gmail.com
