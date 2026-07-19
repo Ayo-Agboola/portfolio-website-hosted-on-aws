@@ -110,3 +110,15 @@ Secured the website with a free SSL/TLS certificate from Let's Encrypt using Cer
 The completed portfolio website deployed on AWS and accessible through a custom domain over HTTPS.
 
 ![Live Website](Image/website.png)
+
+## Project Architecture
+
+```mermaid
+flowchart LR
+    A[Visitor's Browser] --> B[Namecheap Domain]
+    B --> C[DNS Records]
+    C --> D[AWS EC2 Instance]
+    D --> E[Nginx Web Server]
+    E --> F[Portfolio Website]
+    F --> G[Formspree Contact Form]
+```
