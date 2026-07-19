@@ -72,3 +72,33 @@ portfolio-website-hosted-on-aws/
 ├── LICENSE
 └── .gitignore
 ```
+
+## Project Screenshots
+
+### 1. AWS VPC Configuration
+
+![AWS VPC](images/vpc.png)
+
+### 2. Amazon EC2 Instance
+
+![Amazon EC2](images/ec2.png)
+
+### 3. Namecheap DNS Configuration
+
+![DNS Configuration](images/dns.png)
+
+### 4. SSH Connection Using MobaXterm
+
+![MobaXterm](images/mobaxterm.png)
+
+### 5. Nginx Web Server Configuration
+
+![Nginx](images/nginx.png)
+
+### 6. SSL/TLS Configuration with Let's Encrypt
+
+![SSL](images/ssl.png)
+
+### 7. Live Portfolio Website
+
+![Portfolio Website](images/website.png)
