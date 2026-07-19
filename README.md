@@ -154,3 +154,16 @@ During this project, I encountered several challenges that strengthened my under
 - Installing and configuring Let's Encrypt SSL/TLS certificates using Certbot.
 - Integrating Formspree to make the contact form functional without developing a backend.
 - Troubleshooting file locations, permissions, and deployment issues while updating the website.
+
+## Lessons Learned
+
+This project provided practical experience beyond building a static website. It improved my understanding of:
+
+- AWS cloud infrastructure and networking.
+- Linux server administration using Ubuntu.
+- Deploying static websites with Nginx.
+- Domain registration and DNS configuration.
+- SSL/TLS implementation with Let's Encrypt and Certbot.
+- Remote server management using SSH through MobaXterm.
+- Integrating third-party services such as Formspree.
+- Troubleshooting real deployment issues in a cloud environment.
