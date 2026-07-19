@@ -10,6 +10,12 @@ This project showcases practical experience in cloud infrastructure, Linux serve
 
 🌐 **Website:** https://ayoagboola.online
 
+## Video Demonstration
+
+🎥 Watch the complete walkthrough of how I built, deployed, and secured this portfolio website on AWS:
+
+https://https://www.linkedin.com/posts/ayomide-e-agboola_a-few-days-ago-i-shared-screenshots-of-how-activity
+
 ## Technologies Used
 
 - HTML5
