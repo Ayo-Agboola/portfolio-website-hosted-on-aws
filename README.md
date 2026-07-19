@@ -75,30 +75,42 @@ portfolio-website-hosted-on-aws/
 
 ## Project Screenshots
 
-### 1. AWS VPC Configuration
+### Step 1: AWS VPC Configuration
+Configured a Virtual Private Cloud (VPC) to provide a secure networking environment for the EC2 instance.
 
 ![AWS VPC](images/vpc.png)
 
-### 2. Amazon EC2 Instance
+### Step 2: Amazon EC2 Instance
+Launched and configured an Ubuntu-based Amazon EC2 instance to host the portfolio website.
 
 ![Amazon EC2](images/ec2.png)
 
-### 3. Namecheap DNS Configuration
+### Step 3: Security Group Configuration
+Configured inbound rules to allow SSH, HTTP, and HTTPS traffic to the EC2 instance.
+
+![Security Group](images/security-group.png)
+
+### Step 4: DNS Configuration
+Connected the custom Namecheap domain to the EC2 public IP address using DNS A records.
 
 ![DNS Configuration](images/dns.png)
 
-### 4. SSH Connection Using MobaXterm
+### Step 5: Remote Server Access
+Connected securely to the EC2 instance using MobaXterm over SSH.
 
 ![MobaXterm](images/mobaxterm.png)
 
-### 5. Nginx Web Server Configuration
+### Step 6: Nginx Web Server
+Installed and configured Nginx to serve the portfolio website.
 
-![Nginx](images/nginx.png)
+![Nginx Configuration](images/nginx.png)
 
-### 6. SSL/TLS Configuration with Let's Encrypt
+### Step 7: SSL/TLS Configuration
+Secured the website with a free SSL/TLS certificate from Let's Encrypt using Certbot.
 
-![SSL](images/ssl.png)
+![SSL Configuration](images/ssl.png)
 
-### 7. Live Portfolio Website
+### Step 8: Live Portfolio Website
+The completed portfolio website deployed on AWS and accessible through a custom domain over HTTPS.
 
-![Portfolio Website](images/website.png)
+![Live Website](images/website.png)
