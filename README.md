@@ -6,6 +6,22 @@ This project demonstrates how I built, deployed, and secured a static portfolio 
 
 This project showcases practical experience in cloud infrastructure, Linux server administration, web server configuration, domain management, DNS configuration, SSL/TLS implementation, and static website deployment.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Live Demo](#live-demo)
+- [Technologies Used](#technologies-used)
+- [Project Workflow](#project-workflow)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [Project Screenshots](#project-screenshots)
+- [Project Architecture](#project-architecture)
+- [Deployment Guide](#deployment-guide)
+- [Challenges Encountered](#challenges-encountered)
+- [Lessons Learned](#lessons-learned)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+  
 ## Live Demo
 
 🌐 **Website:** https://ayoagboola.online
